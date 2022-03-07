@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daantonio27&theme=radical)
  <p align="left">
     <a href = "https://www.linkedin.com/in/daantonioco/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36"                  height="36"/></a>
-    <a href = "daantonioc3@gmail.com"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" width="36"                  height="36"/></a>
+    <a href = "mailto:daantonioc3@gmail.com"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" width="36"                  height="36"/></a>
     <a href = "https://daantonio.netlify.app/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/man.png" width="36"                  height="36"/></a>
     </p>
     </p>
