@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
     I live in Dakar, Sénégal.
     I've always liked programming.
