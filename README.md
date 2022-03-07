@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi, I'm Da Antonio 👋
 
     I live in Dakar, Sénégal.
     I've always liked programming.
