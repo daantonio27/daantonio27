@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+    I live in Palhoça, Rio Grande.
+    I've always liked programming and I can't see myself working in another area.
+    Computer Science, 02/2021
+    I want to become a good professional doing what I love.
+
 <!--
 **daantonio27/daantonio27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
