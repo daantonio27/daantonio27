@@ -1,8 +1,9 @@
-### <h1>Hi, I'm Da Antonio 👋</h1>
-
-    I live in Dakar, Sénégal.
-    I've always liked programming.
-
+### <h1>Hi, I'm <a href = "https://daantonio.netlify.app/">Da Antonio</a> 👋</h1>
+<ul>
+    <li>🔭 I live in Dakar, Sénégal.</li>
+    <li>🌱 I've always liked programming.</li>
+    <li>📫 How to reach me: <a href = "mailto:daantonioc3@gmail.com">daantonioc3@gmail.com</a></li>
+</ul>
 
 <!--
 **daantonio27/daantonio27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +22,8 @@ Here are some ideas to get you started:
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daantonio27&theme=radical)
  <p align="left">
-    <a href = "https://www.linkedin.com/in/daantonioco/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36"                  height="36"/></a>
+   <!-- <a href = "https://www.linkedin.com/in/daantonioco/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36"                  height="36"/></a>
     <a href = "mailto:daantonioc3@gmail.com"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" width="36"                  height="36"/></a>
-    <a href = "https://daantonio.netlify.app/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/man.png" width="36"                  height="36"/></a>
     </p>
     </p>
     </p>
