@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daantonio27&theme=radical)
- <p align="left">
-   <!-- <a href = "https://www.linkedin.com/in/daantonioco/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36"                  height="36"/></a>
+   
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daantonio27&theme=dracula&include_alt_commits=true&count_private=true)
+ 
+  <!--
+<p align="left">
+   <a href = "https://www.linkedin.com/in/daantonioco/"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/linkedInLogo.svg" width="36"                  height="36"/></a>
     <a href = "mailto:daantonioc3@gmail.com"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gmail.svg" width="36"                  height="36"/></a>
     </p>
     </p>
